@@ -3,3 +3,5 @@ This is my first file
 updating 
 
 Branch file
+
+Adding though git
